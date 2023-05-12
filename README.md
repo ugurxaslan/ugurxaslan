@@ -1,6 +1,5 @@
-### Hi there 👋
-### 🔭 I’m currently working on ...
-### 🌱 I’m currently learning ...
+### Hello I'm Uğur👋
+### I am a computer engineering student
 <!--
 **ugurxaslan/ugurxaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
