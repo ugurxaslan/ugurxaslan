@@ -1,5 +1,5 @@
 ### Hello I'm Uğur👋
-### I am a computer engineering student
+### I am a computer engineering student at Çanakkale
 <!--
 **ugurxaslan/ugurxaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
